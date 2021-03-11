@@ -1,0 +1,8 @@
+Have these aliases or run the commands as is.
+
+alias venv:activate='. venv/bin/activate'
+alias venv:init='python -m venv venv'
+
+Inside the environment, run pip install -r requirements.txt
+
+Do you magic inside the venv
